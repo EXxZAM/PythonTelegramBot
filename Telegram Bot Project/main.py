@@ -1,6 +1,6 @@
 import requests
 
-url = "https://api.telegram.org/bot1405208821:AAEU7UalGaxxqUZcdXAHLOaZUMHOx_hJtpk/"
+url = "https://api.telegram.org/botTOKEN/"
 
 
 #? returns the chat id
@@ -46,3 +46,6 @@ def main():
             update_id+=1
         
 main()
+
+#! Python Tutorials
+#! aparat.com/iranfun2000
